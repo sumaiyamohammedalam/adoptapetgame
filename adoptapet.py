@@ -53,12 +53,12 @@ def main():
     player = Person(player_name)
 
     while True:
-        print("\n--- Main Menu ---")
+        print("\n---~~Main Menu~~---")
         print("1. Adopt a pet")
         print("2. View your pets")
-        print("3. Feed a pet")
-        print("4. Play with a pet")
-        print("5. Quit")
+        print("3. Feed your pets")
+        print("4. Play with your pets")
+        print("5. Quit game")
         
         choice = input("Choose an option: ")
 
