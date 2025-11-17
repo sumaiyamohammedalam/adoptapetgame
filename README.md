@@ -3,7 +3,7 @@ This is a game project for my Portfolio Project for Codecademy.
 
 A text-based terminal game built in Python where you can adopt pets, feed them, play with them, and keep them happy.
 
-This project was created as part of CS101: Introduction to Programming portfolio. It demonstrates the use of Object-Oriented Programming (OOP) in Python, including classes, objects, methods, attributes, and interactions between objects.
+It demonstrates the use of Object-Oriented Programming (OOP) in Python, including classes, objects, methods, attributes, and interactions between objects.
 
 ## Features:
 - Adopt a pet by giving it a name and species (dog, cat, rabbit, etc)
